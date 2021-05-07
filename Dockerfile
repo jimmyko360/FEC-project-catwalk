@@ -6,6 +6,8 @@ COPY package*.json ./
 
 RUN npm install
 
+RUN npm run build
+
 COPY . .
 
 # Exposing ports is for the purpose of docker-compose, not for immediate use with a single image

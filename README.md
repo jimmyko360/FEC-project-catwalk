@@ -1,5 +1,5 @@
 # Project-Catwalk
-Complete redesign of product web page for client-facing retail website.
+Complete redesign of product web page for client-facing retail website, deployed at https://project-catwalk-fec.herokuapp.com/
 ​
 ## Getting Started​
 1. Fork the repo and clone it down to your computer.
